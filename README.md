@@ -1,3 +1,3 @@
 vincent 
-updated description 
+updated readme 
 

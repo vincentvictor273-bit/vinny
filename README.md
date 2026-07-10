@@ -1,2 +1,2 @@
 # vinny
-justGOD
+updated description 
